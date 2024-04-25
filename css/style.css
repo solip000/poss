@@ -25,11 +25,13 @@
 }
 .pop-under{
   position: fixed;
-  lefT: 0;
+  lefT: 50%;
   bottom: 0;
   padding: 10px 20px 40px;
   background: #fff;
+  max-width: 768px;
   width: 100%;
+  transform: translateX(-50%);
 }
 .payment-clear{
   display: flex;
