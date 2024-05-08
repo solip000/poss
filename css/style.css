@@ -68,6 +68,6 @@
   width: 50px;
 }
 .payment-clear + ul{
-  margin: auto;
+  margin: auto 5px;
   line-height: 21px;
 }
