@@ -3,6 +3,12 @@
   margin: auto;
   font-family: 'NanumSquare';
 }
+svg {
+  vertical-align: middle;
+}
+.hide {
+	display: none;
+}
 /* title & text */
 .tit-type01{
   margin-bottom: 6px;
